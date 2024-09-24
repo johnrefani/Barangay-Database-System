@@ -15,7 +15,7 @@ The Barangay Household System is a database application developed using VB.Net a
 ![Home](Home.png)
 
 ### Log In Screen
-![Log In](Log_In.png)
+![Log In](LogIn.png)
 
 ### Input Screen
 ![Input](Input.png)
@@ -27,7 +27,7 @@ The Barangay Household System is a database application developed using VB.Net a
 ![Delete](Delete.png)
 
 ### Print Screen
-![Print](Hard_Print.png)
+![Print](Print.png)
 
 ## Getting Started
 
